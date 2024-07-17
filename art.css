@@ -1,0 +1,79 @@
+#home {
+  background-color: rgb(5, 69, 85);
+}
+
+#gallery {
+  background-color: rgb(132, 187, 242);
+}
+
+.form {
+  color: azure;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+}
+
+input {
+  color: black;
+  margin: 10px;
+}
+
+label {
+  margin: 10px;
+  padding: 5px;
+  border: 2px;
+  background-color: silver;
+  color: black;
+}
+
+#sun {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border-radius: 50%;
+}
+
+.cloud1 {
+  width: 200px;
+  height: 100px;
+  background: whitesmoke;
+  border-radius: 100px / 50px;
+}
+
+.cloud2 {
+  width: 200px;
+  height: 100px;
+  background: whitesmoke;
+  border-radius: 100px / 50px;
+}
+
+.building1 {
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.building2 {
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.building3 {
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+
+.road {
+  width: 200px;
+  height: 100px;
+  background: black;
+}
+
+.ground {
+  width: auto;
+  height: 100px;
+  background: green;
+}
